@@ -9,7 +9,7 @@ body{
 
 }
 body:hover{
-    box-shadow: inset 100px 100px 100px #008cff, inset -100px -100px 100px #e100ff;
+    box-shadow: inset 50px 50px 100px #008cff, inset -50px -50px 100px #e100ff;
 }
 #main{
     display: flex;
